@@ -1,0 +1,23 @@
+body
+{
+    color : lightcoral;
+    background-color:paleturquoise;
+}
+
+.heading
+{
+    width: 100%;
+    font-size: 50px;
+}
+
+#camera
+{
+    border: 2px dashed lightblue; 
+    width: 400px;
+    height: 350px;
+}
+
+.nameoftheobjects,#resultobjectname,#resultobjectaccuracy
+{
+    color: sandybrown;
+}
